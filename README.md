@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 
 1. Open your Integrated Terminal for each folder (`technical-test` and `technical-server`).
 
-2. Run the following command to install the necessary packages:
+2. Run the following command to install the necessary packages of two folders mentioned:
 `npm i`
 3. Runs the app in the development mode. You must run both the app and server by the command below:\
 `npm start`
