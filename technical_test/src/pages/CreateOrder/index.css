@@ -1,0 +1,50 @@
+h2 {
+    color: rgb(243, 210, 210);
+    text-align: center;
+}
+input {
+    padding: 4px 0;
+    border-radius: 4px;
+    border: 0px;
+}
+.bold {
+    font-weight: bold;
+}
+.red {
+    color: rgb(160, 8, 8);
+}
+.container {
+    max-width: 700px;
+    margin: auto;
+    background: linear-gradient(to bottom, #456ac9, #cfcfee);
+    padding: 0 8px;
+    border-radius: 8px;
+}
+#order-form {
+    text-align: left;
+}
+.input-group-text {
+    display: inline-block;
+    min-width: 132px;
+    padding-left: 16px;
+    margin-top: 4px;
+}
+table {
+    width: 100%;
+    padding-left: 16px;
+}
+table tr {
+    border: 1px inset gray;
+}
+table .quantity-input {
+    width: 40px;
+    margin-left: 4px
+}
+.btn-submit {
+    text-align: center;
+}
+.btn-submit button {
+    padding: 4px 12px;
+    font-size: 16px;
+    border-radius: 4px;
+}
