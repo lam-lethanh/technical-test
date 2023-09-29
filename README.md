@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains a technical test project consisting of two folders: `technical-test` (Frontend) and `technical-server` (Backend).
+This repository contains a technical test project consisting of two folders: `technical-test` (Frontend using ReactJS) and `technical-server` (Node.js Backend using Express).
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+To get started with this project, you have to clone this project and then follow these steps:
 
 1. Open your Integrated Terminal for each folder (`technical-test` and `technical-server`).
 
